@@ -253,3 +253,4 @@ namespace Kutuphane
         }
     }
 }
+// BU KOD BİR HARİKA!
